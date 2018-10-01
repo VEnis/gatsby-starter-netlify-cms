@@ -4,7 +4,8 @@ title: Some blog post with formatting and other features
 date: 2018-10-01T12:11:16.231Z
 description: Some description
 tags:
-  - aaa bbb
+  - aaa
+  - bbb
 ---
 # h1 Heading 8-)
 
